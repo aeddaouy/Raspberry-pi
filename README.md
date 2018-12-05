@@ -1,3 +1,2 @@
 # Raspberry-pi
-robot autonome
-Merci
+Autonomous robot
